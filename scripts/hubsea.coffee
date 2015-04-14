@@ -41,5 +41,5 @@ module.exports = (robot) ->
 #   sidens
 #
 #module.exports = (robot) ->
-#  robot.hear /spunchair\b/i, (message) ->
+#  robot.hear /chips\b/i, (message) ->
 #    message.send "http://i.imgur.com/LBg2rYR.gif"
