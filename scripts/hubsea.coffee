@@ -35,11 +35,11 @@ module.exports = (robot) ->
 #   None
 #
 # Commands:
-#   spunchair - put a face to the name
+#   chips - share them
 #
 # Author:
 #   sidens
 #
 #module.exports = (robot) ->
 #  robot.hear /chips\b/i, (message) ->
-#    message.send "http://i.imgur.com/LBg2rYR.gif"
+#    message.send “NEEDURL”
