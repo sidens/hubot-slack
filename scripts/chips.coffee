@@ -15,4 +15,4 @@
 #
 module.exports = (robot) ->
   robot.hear /chips\b/i, (message) ->
-    message.send "Chips?! Hey {{@bridget}}! http://i.giphy.com/ZqjnPHIIEttZK.gif"
+    message.send "Chips?! Hey @{{bridget}}! http://i.giphy.com/ZqjnPHIIEttZK.gif"
